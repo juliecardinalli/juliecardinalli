@@ -4,6 +4,8 @@ I'm a solutions engineer who likes turning an idea into something I can use. My 
 
 ### Selected projects
 
+**[Video Editing Workbench](https://github.com/juliecardinalli/video-editing-workbench)** — A local browser editor for turning timed transcripts into interactive scripts, reviewing dead-air cuts, and exporting a rough cut with FFmpeg. Includes a synthetic demo, source-file protection, and Python/JavaScript tests.
+
 **[Julie Content Studio](https://github.com/juliecardinalli/julie-content-studio)** — The public toolkit behind my content-editing workflow. Python and FFmpeg turn reviewed edit decisions into vertical videos, with input validation, captions, overlays, and automated tests. Raw footage and unpublished content stay private.
 
 **[Portfolio Chatbot](https://github.com/juliecardinalli/portfolio-chatbot)** — The website's chatbot, extracted into a standalone project. It uses Cloudflare Workers AI and Vectorize to answer questions from a curated knowledge base, with a reusable React component and offline tests.
